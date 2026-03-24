@@ -13,7 +13,7 @@
   <a href="https://docs.pyrogram.org/" target="_blank">
     <img src="https://img.shields.io/badge/Framework-Pyrogram-brightgreen?style=for-the-badge&logo=pyrogram&logoColor=white" alt="Pyrogram"/>
   </a>
-  <a href="https://t.me/Anime_UpdatesAU" target="_blank">
+  <a href="https://t.me/Mr_Mohammed_29" target="_blank">
     <img src="https://img.shields.io/badge/Developer-Mohammed-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Developer"/>
   </a>
   <a href="https://t.me/AU_Bot_Discussion" target="_blank">

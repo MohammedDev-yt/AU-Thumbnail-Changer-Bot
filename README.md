@@ -147,7 +147,7 @@ These are the **environment variables** required to run Bot:
       <td><code>DEV_URL</code></td>
       <td>Telegram URL of the developer (optional)</td>
       <td>❌</td>
-      <td><a href="https://t.me/Mohammed" target="_blank">https://t.me/Mohammed</a></td>
+      <td><a href="https://t.me/Mr_Mohammed_29" target="_blank">https://t.me/Mr_Mohammed_29</a></td>
     </tr>
   </tbody>
 </table>

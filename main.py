@@ -2,28 +2,35 @@
 #Supports Group @AU_Bot_Discussion 
 #Telegram Channel @Anime_UpdatesAU
 #Developer @Mr_Mohammed_29
+
 from aiogram import Bot, Dispatcher
 from aiogram.fsm.storage.memory import MemoryStorage
 import asyncio
 from flask import Flask
 import threading 
+
 #Don't Remove Credits 
 #Supports Group @AU_Bot_Discussion 
 #Telegram Channel @Anime_UpdatesAU
 #Developer @Mr_Mohammed_29
+
 import os
 from config import API_TOKEN
 from database import init_db, close_db
 from plugins import start_router, settings_router, video_router, admin_router
+
 # Initialize bot and dispatcher
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(storage=MemoryStorage())
+
 # Register routers
 dp.include_router(start_router)
 dp.include_router(settings_router)
 dp.include_router(video_router)
 dp.include_router(admin_router)
+
 # Flask health check server
+
 app = Flask(__name__)
 @app.route("/")
 
@@ -46,14 +53,16 @@ async def main():
 
 if __name__ == "__main__":
     print(r"""     
-████████████████████████
-█     Anime_UpdatesAU      █
-████████████████████████
+███████████████████████
+█        Aero_Unity       █
+███████████████████████
       BOT WORKING PROPERLY....
     """)
     print("Starting Bot...")
+    
     threading.Thread(target=run_flask, daemon=True).start()
     asyncio.run(main())
+    
 #Don't Remove Credits 
 #Supports Group @AU_Bot_Discussion 
 #Telegram Channel @Anime_UpdatesAU

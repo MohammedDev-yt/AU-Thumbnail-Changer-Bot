@@ -177,8 +177,7 @@ These are the **environment variables** required to run Bot:
 </p>
 ---
 
->[!ɴᴏᴛᴇ]
-> **ɪᴍᴘᴏʀᴛɪɴɢ ᴛʜɪs ʀᴇᴘᴏ ɪɴsᴛᴇᴀᴅ ᴏғ ғᴏʀᴋɪɴɢ ɪs sᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ 🚫 ᴋɪɴᴅʟʏ ғᴏʀᴋ ᴀɴᴅ ᴇᴅɪᴛ ᴀs ʏᴏᴜʀ ᴡɪsʜ (ᴍᴜsᴛ ɢɪᴠᴇ ᴄʀᴇᴅɪᴛs ғᴏʀ ᴅᴇᴠs) 🙃
+> [!ɴᴏᴛᴇ] > **ɪᴍᴘᴏʀᴛɪɴɢ ᴛʜɪs ʀᴇᴘᴏ ɪɴsᴛᴇᴀᴅ ᴏғ ғᴏʀᴋɪɴɢ ɪs sᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ 🚫 ᴋɪɴᴅʟʏ ғᴏʀᴋ ᴀɴᴅ ᴇᴅɪᴛ ᴀs ʏᴏᴜʀ ᴡɪsʜ (ᴍᴜsᴛ ɢɪᴠᴇ ᴄʀᴇᴅɪᴛs ғᴏʀ ᴅᴇᴠs) 🙃
 ɪғ ʏᴏᴜ ғɪɴᴅ ᴀɴʏ ʙᴜɢs ᴏʀ ᴇʀʀᴏʀs, ʀᴇᴘᴏʀᴛ ɪᴛ ᴛᴏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ.**
 
 ═★═★═★═ **🏆 Credits** ═★═★═★═  
@@ -193,11 +192,10 @@ These are the **environment variables** required to run Bot:
 ## Fork and ⭐ this repo 
 <p align="center">
   If you like this bot, give it a ⭐ on GitHub to support the project!  
-  <a href="https://github.com/MD-Developer-yt/AU-Thumbnail-Changer-Bot" target="_blank">
+  <a href="https://github.com/MohammedDev-yt/AU-Thumbnail-Changer-Bot" target="_blank">
   </a>
 </p>
 # ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
----
 
 ## 🛡 Badges
 
@@ -207,4 +205,10 @@ These are the **environment variables** required to run Bot:
   <img src="https://img.shields.io/badge/Telegram-Bot-blueviolet" alt="Telegram">
 </p>
 
----
+<p align="center">
+  <b>Made with ❤️ by Mohammed</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:6A00FF,100:00C8FF&height=120&section=footer"/>
+</p>
